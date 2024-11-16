@@ -2,6 +2,7 @@
 
 
 Overview
+
 AirVista App is a Java Swing-based managerial software designed to streamline and control all core operations of an airline. This application enables efficient scheduling of flights, ticket reservations, cancellations, customer support, staff management, and retrieval of daily flight updates.
 
 Features
