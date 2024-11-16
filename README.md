@@ -1,4 +1,4 @@
-                                                                              AirVista APP
+                          AirVista APP
 
 
 Overview
@@ -45,17 +45,35 @@ Run the application and explore the features!
 
 Screenshots
 
+Login Screen
+
 ![Screenshot 2024-11-16 173257](https://github.com/user-attachments/assets/874bcab8-9d40-4210-83b2-c5ae9600a6ce)
+
+Home Screen
 
 ![Screenshot (119)](https://github.com/user-attachments/assets/6898c1f0-fd41-498c-bf90-d47a4df8b787)
 
+Flight Details Screen
+
+![Screenshot (120)](https://github.com/user-attachments/assets/002fa6a6-eff5-4f55-82fc-b479a4e0edb5)
+
+Customer Deatils Screen
+
 ![Screenshot (121)](https://github.com/user-attachments/assets/0dfa66e2-8ab5-40d9-9510-751c2e6bcb98)
+
+Flight Booking Screen
 
 ![Screenshot (122)](https://github.com/user-attachments/assets/8baab4d8-297f-400f-a003-fe9e940e27cf)
 
+Journey Details Screen
+
 ![Screenshot (123)](https://github.com/user-attachments/assets/b055ac14-6514-4ec2-9a09-6dd4d44db5e6)
 
+Cancellation Screen
+
 ![Screenshot (124)](https://github.com/user-attachments/assets/ada4ed76-47e1-4afc-879b-f3b92806edd1)
+
+Boarding Pass Screen
 
 ![Screenshot (125)](https://github.com/user-attachments/assets/a90b297b-c052-4df4-bf95-1035bd6ab3fc)
 
@@ -78,6 +96,7 @@ Future Enhancements
 
 
 
+![Screenshot (120)](https://github.com/user-attachments/assets/002fa6a6-eff5-4f55-82fc-b479a4e0edb5)
 
 
 
